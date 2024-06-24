@@ -3,7 +3,7 @@ Description: Known for its cutting-edge research and development in AI, OpenAI c
 URL: OpenAI
 2. Biz4Group LLC
 Description: Biz4Group LLC specializes in innovative AI solutions, providing custom AI and machine learning services tailored to business needs.
-URL: 	[Bz4Group LLC - TOP Chatbot Development Company]((https://www.biz4group.com/chatbot-development-company) 
+URL: 	[Biz4Group LLC - TOP Chatbot Development Company](https://www.biz4group.com/chatbot-development-company) 
 3. Google AI
 Description: Google AI focuses on developing advanced machine learning and AI technologies, contributing to Google's suite of products.
 URL: https://ai.google/
